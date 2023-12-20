@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GUI_Cajero
+comment0.text=\r\n\ Proyecto\:\ Cuenta\ Bancaria.\r\n\ \r\n\ @Autor1\ (Parisi\ Bruno\ -\ 127278)\r\n\ @Autor2\ (Dome\ Melina\ -\ 130216)\r\n\ @Date\ (13/07/2021)\r\n
+comment1.params=cb
+comment1.target=GUI_Cajero(CuentaBancaria)
+comment1.text=-------------------------------------------------------------
+comment2.params=
+comment2.target=void\ initGUI()
+comment2.text=-------------------------------------------------------------
+comment3.params=texto\ titulo\ tipoDeMensaje
+comment3.target=float\ obtenerEntrada(java.lang.String,\ java.lang.String,\ int)
+comment3.text=\r\n\ Muestra\ un\ mensaje\ con\ el\ texto\ y\ titulo\ indicado\ por\ pantalla,\ haciendo\ uso\ de\ un\ InputDialog.\r\n\ Obtiene\ el\ valor\ ingresado\ por\ el\ usuario,\ lo\ convierte\ a\ float\ y\ retorna.\r\n\ tipoDeMensaje\ indica\ el\ formato\ del\ mensaje\ a\ mostrar.\ Requiere\ tipoDeMensaje\ v\u00E1lido.\r\n\ Si\ el\ usuario\ no\ ingresa\ un\ valor,\ retorna\ 0.\r\n
+comment4.params=texto\ titulo\ tipoDeMensaje
+comment4.target=void\ mostrarMensaje(java.lang.String,\ java.lang.String,\ int)
+comment4.text=\r\n\ Muestra\ un\ mensaje\ con\ el\ texto\ y\ titulo\ indicado\ por\ pantalla,\ haciendo\ uso\ de\ un\ MessageDialog.\r\n\ tipoDeMensaje\ indica\ el\ formato\ del\ mensaje\ a\ mostrar.\ Requiere\ tipoDeMensaje\ v\u00E1lido.\r\n
+numComments=5
